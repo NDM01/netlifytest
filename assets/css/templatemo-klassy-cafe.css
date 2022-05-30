@@ -722,6 +722,13 @@ banner
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+}
+
+.menuop
+{
+  width: 40px;
+  height: 40px;
 }
 
 .imgsobre{
