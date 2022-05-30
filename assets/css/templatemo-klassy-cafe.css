@@ -656,6 +656,7 @@ banner
   padding: 0px;
 }
 
+
 #top .left-content {
   background-image: url(../images/teste2.webp);
   background-position: center center;
@@ -1439,8 +1440,8 @@ offers
   transition: all 0.3s;
 }
 #offers .tabs-content .tab-item {
-  position: relative;
-  margin-bottom: 60px;
+  position: center;
+  margin-bottom: 30px;
 }
 #offers .tabs-content img {
   float: left;
