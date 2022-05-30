@@ -724,6 +724,10 @@ banner
   -moz-osx-font-smoothing: grayscale;
 }
 
+.imgsobre{
+  margin-top: 43px;
+}
+
 .Grid1k {
   padding: 0 15px;
   max-width: 1200px;
