@@ -925,6 +925,15 @@ menu
   padding: 120px 0px;
 }
 
+.imgmenu{
+  width: 20px;
+  margin-top: -5px;
+}
+.imgmenu2{
+  width: 25px;
+  margin-top: -5px;
+}
+
 #menu .section-heading {
   margin-bottom: 80px;
 }
